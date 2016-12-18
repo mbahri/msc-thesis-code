@@ -1,0 +1,371 @@
+PING corona01.doc.ic.ac.uk (146.169.53.81) 56(84) bytes of data.
+64 bytes from corona01.doc.ic.ac.uk (146.169.53.81): icmp_seq=1 ttl=64 time=0.231 ms
+
+--- corona01.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.231/0.231/0.231/0.000 ms
+PING corona02.doc.ic.ac.uk (146.169.53.82) 56(84) bytes of data.
+64 bytes from corona02.doc.ic.ac.uk (146.169.53.82): icmp_seq=1 ttl=64 time=0.244 ms
+
+--- corona02.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.244/0.244/0.244/0.000 ms
+PING corona03.doc.ic.ac.uk (146.169.53.83) 56(84) bytes of data.
+64 bytes from corona03.doc.ic.ac.uk (146.169.53.83): icmp_seq=1 ttl=64 time=0.208 ms
+
+--- corona03.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.208/0.208/0.208/0.000 ms
+PING corona04.doc.ic.ac.uk (146.169.53.84) 56(84) bytes of data.
+64 bytes from corona04.doc.ic.ac.uk (146.169.53.84): icmp_seq=1 ttl=64 time=0.210 ms
+
+--- corona04.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.210/0.210/0.210/0.000 ms
+PING corona05.doc.ic.ac.uk (146.169.53.85) 56(84) bytes of data.
+64 bytes from corona05.doc.ic.ac.uk (146.169.53.85): icmp_seq=1 ttl=64 time=0.262 ms
+
+--- corona05.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.262/0.262/0.262/0.000 ms
+PING corona06.doc.ic.ac.uk (146.169.53.86) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- corona06.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING corona07.doc.ic.ac.uk (146.169.53.87) 56(84) bytes of data.
+64 bytes from corona07.doc.ic.ac.uk (146.169.53.87): icmp_seq=1 ttl=64 time=0.261 ms
+
+--- corona07.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.261/0.261/0.261/0.000 ms
+PING corona08.doc.ic.ac.uk (146.169.53.88) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- corona08.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING corona09.doc.ic.ac.uk (146.169.53.89) 56(84) bytes of data.
+64 bytes from corona09.doc.ic.ac.uk (146.169.53.89): icmp_seq=1 ttl=64 time=0.196 ms
+
+--- corona09.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.196/0.196/0.196/0.000 ms
+PING corona10.doc.ic.ac.uk (146.169.53.90) 56(84) bytes of data.
+64 bytes from corona10.doc.ic.ac.uk (146.169.53.90): icmp_seq=1 ttl=64 time=0.182 ms
+
+--- corona10.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.182/0.182/0.182/0.000 ms
+PING corona11.doc.ic.ac.uk (146.169.53.91) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- corona11.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING corona12.doc.ic.ac.uk (146.169.53.92) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- corona12.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING corona13.doc.ic.ac.uk (146.169.53.93) 56(84) bytes of data.
+64 bytes from corona13.doc.ic.ac.uk (146.169.53.93): icmp_seq=1 ttl=64 time=0.276 ms
+
+--- corona13.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.276/0.276/0.276/0.000 ms
+PING corona14.doc.ic.ac.uk (146.169.53.94) 56(84) bytes of data.
+64 bytes from corona14.doc.ic.ac.uk (146.169.53.94): icmp_seq=1 ttl=64 time=0.226 ms
+
+--- corona14.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.226/0.226/0.226/0.000 ms
+PING corona15.doc.ic.ac.uk (146.169.53.95) 56(84) bytes of data.
+64 bytes from corona15.doc.ic.ac.uk (146.169.53.95): icmp_seq=1 ttl=64 time=0.222 ms
+
+--- corona15.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.222/0.222/0.222/0.000 ms
+PING corona16.doc.ic.ac.uk (146.169.53.96) 56(84) bytes of data.
+64 bytes from corona16.doc.ic.ac.uk (146.169.53.96): icmp_seq=1 ttl=64 time=0.262 ms
+
+--- corona16.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.262/0.262/0.262/0.000 ms
+PING corona17.doc.ic.ac.uk (146.169.53.97) 56(84) bytes of data.
+64 bytes from corona17.doc.ic.ac.uk (146.169.53.97): icmp_seq=1 ttl=64 time=0.351 ms
+
+--- corona17.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.351/0.351/0.351/0.000 ms
+PING corona18.doc.ic.ac.uk (146.169.53.98) 56(84) bytes of data.
+64 bytes from corona18.doc.ic.ac.uk (146.169.53.98): icmp_seq=1 ttl=64 time=0.257 ms
+
+--- corona18.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.257/0.257/0.257/0.000 ms
+PING corona19.doc.ic.ac.uk (146.169.53.99) 56(84) bytes of data.
+64 bytes from corona19.doc.ic.ac.uk (146.169.53.99): icmp_seq=1 ttl=64 time=0.202 ms
+
+--- corona19.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.202/0.202/0.202/0.000 ms
+PING corona20.doc.ic.ac.uk (146.169.53.100) 56(84) bytes of data.
+64 bytes from corona20.doc.ic.ac.uk (146.169.53.100): icmp_seq=1 ttl=64 time=0.211 ms
+
+--- corona20.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.211/0.211/0.211/0.000 ms
+PING corona21.doc.ic.ac.uk (146.169.53.101) 56(84) bytes of data.
+64 bytes from corona21.doc.ic.ac.uk (146.169.53.101): icmp_seq=1 ttl=64 time=0.191 ms
+
+--- corona21.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.191/0.191/0.191/0.000 ms
+PING corona22.doc.ic.ac.uk (146.169.53.102) 56(84) bytes of data.
+64 bytes from corona22.doc.ic.ac.uk (146.169.53.102): icmp_seq=1 ttl=64 time=0.330 ms
+
+--- corona22.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.330/0.330/0.330/0.000 ms
+PING corona23.doc.ic.ac.uk (146.169.53.103) 56(84) bytes of data.
+64 bytes from corona23.doc.ic.ac.uk (146.169.53.103): icmp_seq=1 ttl=64 time=0.202 ms
+
+--- corona23.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.202/0.202/0.202/0.000 ms
+PING corona24.doc.ic.ac.uk (146.169.53.104) 56(84) bytes of data.
+64 bytes from corona24.doc.ic.ac.uk (146.169.53.104): icmp_seq=1 ttl=64 time=0.227 ms
+
+--- corona24.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.227/0.227/0.227/0.000 ms
+PING corona25.doc.ic.ac.uk (146.169.53.105) 56(84) bytes of data.
+64 bytes from corona25.doc.ic.ac.uk (146.169.53.105): icmp_seq=1 ttl=64 time=0.254 ms
+
+--- corona25.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.254/0.254/0.254/0.000 ms
+PING corona26.doc.ic.ac.uk (146.169.53.106) 56(84) bytes of data.
+64 bytes from corona26.doc.ic.ac.uk (146.169.53.106): icmp_seq=1 ttl=64 time=0.212 ms
+
+--- corona26.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.212/0.212/0.212/0.000 ms
+PING corona27.doc.ic.ac.uk (146.169.53.107) 56(84) bytes of data.
+64 bytes from corona27.doc.ic.ac.uk (146.169.53.107): icmp_seq=1 ttl=64 time=0.247 ms
+
+--- corona27.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.247/0.247/0.247/0.000 ms
+PING corona28.doc.ic.ac.uk (146.169.53.108) 56(84) bytes of data.
+64 bytes from corona28.doc.ic.ac.uk (146.169.53.108): icmp_seq=1 ttl=64 time=0.256 ms
+
+--- corona28.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.256/0.256/0.256/0.000 ms
+PING corona29.doc.ic.ac.uk (146.169.53.109) 56(84) bytes of data.
+64 bytes from corona29.doc.ic.ac.uk (146.169.53.109): icmp_seq=1 ttl=64 time=0.199 ms
+
+--- corona29.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.199/0.199/0.199/0.000 ms
+PING corona30.doc.ic.ac.uk (146.169.53.110) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- corona30.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING corona31.doc.ic.ac.uk (146.169.53.111) 56(84) bytes of data.
+64 bytes from corona31.doc.ic.ac.uk (146.169.53.111): icmp_seq=1 ttl=64 time=0.256 ms
+
+--- corona31.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.256/0.256/0.256/0.000 ms
+PING corona32.doc.ic.ac.uk (146.169.53.112) 56(84) bytes of data.
+64 bytes from corona32.doc.ic.ac.uk (146.169.53.112): icmp_seq=1 ttl=64 time=0.308 ms
+
+--- corona32.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.308/0.308/0.308/0.000 ms
+PING corona33.doc.ic.ac.uk (146.169.53.113) 56(84) bytes of data.
+64 bytes from corona33.doc.ic.ac.uk (146.169.53.113): icmp_seq=1 ttl=64 time=0.256 ms
+
+--- corona33.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.256/0.256/0.256/0.000 ms
+PING corona34.doc.ic.ac.uk (146.169.53.114) 56(84) bytes of data.
+64 bytes from corona34.doc.ic.ac.uk (146.169.53.114): icmp_seq=1 ttl=64 time=0.256 ms
+
+--- corona34.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.256/0.256/0.256/0.000 ms
+PING corona35.doc.ic.ac.uk (146.169.53.115) 56(84) bytes of data.
+64 bytes from corona35.doc.ic.ac.uk (146.169.53.115): icmp_seq=1 ttl=64 time=0.241 ms
+
+--- corona35.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.241/0.241/0.241/0.000 ms
+PING corona36.doc.ic.ac.uk (146.169.53.116) 56(84) bytes of data.
+64 bytes from corona36.doc.ic.ac.uk (146.169.53.116): icmp_seq=1 ttl=64 time=0.293 ms
+
+--- corona36.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.293/0.293/0.293/0.000 ms
+PING corona37.doc.ic.ac.uk (146.169.53.117) 56(84) bytes of data.
+64 bytes from corona37.doc.ic.ac.uk (146.169.53.117): icmp_seq=1 ttl=64 time=0.219 ms
+
+--- corona37.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.219/0.219/0.219/0.000 ms
+PING corona38.doc.ic.ac.uk (146.169.53.118) 56(84) bytes of data.
+64 bytes from corona38.doc.ic.ac.uk (146.169.53.118): icmp_seq=1 ttl=64 time=0.258 ms
+
+--- corona38.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.258/0.258/0.258/0.000 ms
+PING corona39.doc.ic.ac.uk (146.169.53.119) 56(84) bytes of data.
+64 bytes from corona39.doc.ic.ac.uk (146.169.53.119): icmp_seq=1 ttl=64 time=0.241 ms
+
+--- corona39.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.241/0.241/0.241/0.000 ms
+PING corona40.doc.ic.ac.uk (146.169.53.120) 56(84) bytes of data.
+64 bytes from corona40.doc.ic.ac.uk (146.169.53.120): icmp_seq=1 ttl=64 time=0.271 ms
+
+--- corona40.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.271/0.271/0.271/0.000 ms
+PING corona41.doc.ic.ac.uk (146.169.53.209) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- corona41.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING corona42.doc.ic.ac.uk (146.169.15.120) 56(84) bytes of data.
+
+--- corona42.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING voxel01.doc.ic.ac.uk (146.169.52.1) 56(84) bytes of data.
+64 bytes from voxel01.doc.ic.ac.uk (146.169.52.1): icmp_seq=1 ttl=64 time=0.402 ms
+
+--- voxel01.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.402/0.402/0.402/0.000 ms
+PING voxel02.doc.ic.ac.uk (146.169.52.2) 56(84) bytes of data.
+64 bytes from voxel02.doc.ic.ac.uk (146.169.52.2): icmp_seq=1 ttl=64 time=0.379 ms
+
+--- voxel02.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.379/0.379/0.379/0.000 ms
+PING voxel03.doc.ic.ac.uk (146.169.52.3) 56(84) bytes of data.
+64 bytes from voxel03.doc.ic.ac.uk (146.169.52.3): icmp_seq=1 ttl=64 time=0.340 ms
+
+--- voxel03.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.340/0.340/0.340/0.000 ms
+PING voxel04.doc.ic.ac.uk (146.169.52.4) 56(84) bytes of data.
+64 bytes from voxel04.doc.ic.ac.uk (146.169.52.4): icmp_seq=1 ttl=64 time=0.378 ms
+
+--- voxel04.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.378/0.378/0.378/0.000 ms
+PING voxel05.doc.ic.ac.uk (146.169.52.5) 56(84) bytes of data.
+64 bytes from voxel05.doc.ic.ac.uk (146.169.52.5): icmp_seq=1 ttl=64 time=0.350 ms
+
+--- voxel05.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.350/0.350/0.350/0.000 ms
+PING voxel06.doc.ic.ac.uk (146.169.52.6) 56(84) bytes of data.
+64 bytes from voxel06.doc.ic.ac.uk (146.169.52.6): icmp_seq=1 ttl=64 time=0.344 ms
+
+--- voxel06.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.344/0.344/0.344/0.000 ms
+PING voxel07.doc.ic.ac.uk (146.169.52.7) 56(84) bytes of data.
+64 bytes from voxel07.doc.ic.ac.uk (146.169.52.7): icmp_seq=1 ttl=64 time=0.356 ms
+
+--- voxel07.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.356/0.356/0.356/0.000 ms
+PING voxel08.doc.ic.ac.uk (146.169.52.8) 56(84) bytes of data.
+64 bytes from voxel08.doc.ic.ac.uk (146.169.52.8): icmp_seq=1 ttl=64 time=0.357 ms
+
+--- voxel08.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.357/0.357/0.357/0.000 ms
+PING voxel09.doc.ic.ac.uk (146.169.52.9) 56(84) bytes of data.
+64 bytes from voxel09.doc.ic.ac.uk (146.169.52.9): icmp_seq=1 ttl=64 time=0.378 ms
+
+--- voxel09.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.378/0.378/0.378/0.000 ms
+PING voxel10.doc.ic.ac.uk (146.169.52.10) 56(84) bytes of data.
+64 bytes from voxel10.doc.ic.ac.uk (146.169.52.10): icmp_seq=1 ttl=64 time=0.380 ms
+
+--- voxel10.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.380/0.380/0.380/0.000 ms
+PING voxel11.doc.ic.ac.uk (146.169.52.11) 56(84) bytes of data.
+64 bytes from voxel11.doc.ic.ac.uk (146.169.52.11): icmp_seq=1 ttl=64 time=0.384 ms
+
+--- voxel11.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.384/0.384/0.384/0.000 ms
+PING voxel12.doc.ic.ac.uk (146.169.52.12) 56(84) bytes of data.
+64 bytes from voxel12.doc.ic.ac.uk (146.169.52.12): icmp_seq=1 ttl=64 time=0.383 ms
+
+--- voxel12.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.383/0.383/0.383/0.000 ms
+PING voxel13.doc.ic.ac.uk (146.169.52.13) 56(84) bytes of data.
+64 bytes from voxel13.doc.ic.ac.uk (146.169.52.13): icmp_seq=1 ttl=64 time=0.392 ms
+
+--- voxel13.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.392/0.392/0.392/0.000 ms
+PING voxel14.doc.ic.ac.uk (146.169.52.14) 56(84) bytes of data.
+64 bytes from voxel14.doc.ic.ac.uk (146.169.52.14): icmp_seq=1 ttl=64 time=0.352 ms
+
+--- voxel14.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.352/0.352/0.352/0.000 ms
+PING voxel15.doc.ic.ac.uk (146.169.52.15) 56(84) bytes of data.
+64 bytes from voxel15.doc.ic.ac.uk (146.169.52.15): icmp_seq=1 ttl=64 time=0.341 ms
+
+--- voxel15.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.341/0.341/0.341/0.000 ms
+PING voxel16.doc.ic.ac.uk (146.169.52.16) 56(84) bytes of data.
+From voxel20.doc.ic.ac.uk (146.169.52.20) icmp_seq=1 Destination Host Unreachable
+
+--- voxel16.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING voxel17.doc.ic.ac.uk (146.169.52.17) 56(84) bytes of data.
+64 bytes from voxel17.doc.ic.ac.uk (146.169.52.17): icmp_seq=1 ttl=64 time=0.447 ms
+
+--- voxel17.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.447/0.447/0.447/0.000 ms
+PING voxel18.doc.ic.ac.uk (146.169.52.18) 56(84) bytes of data.
+64 bytes from voxel18.doc.ic.ac.uk (146.169.52.18): icmp_seq=1 ttl=64 time=0.563 ms
+
+--- voxel18.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.563/0.563/0.563/0.000 ms
+PING voxel19.doc.ic.ac.uk (146.169.52.19) 56(84) bytes of data.
+64 bytes from voxel19.doc.ic.ac.uk (146.169.52.19): icmp_seq=1 ttl=64 time=0.235 ms
+
+--- voxel19.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.235/0.235/0.235/0.000 ms
+PING voxel20.doc.ic.ac.uk (146.169.52.20) 56(84) bytes of data.
+64 bytes from voxel20.doc.ic.ac.uk (146.169.52.20): icmp_seq=1 ttl=64 time=0.038 ms
+
+--- voxel20.doc.ic.ac.uk ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.038/0.038/0.038/0.000 ms

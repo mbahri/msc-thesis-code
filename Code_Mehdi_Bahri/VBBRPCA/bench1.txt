@@ -1,0 +1,98 @@
+FIRST FIVE ITERATIONS WITH MMX AND KRONFACT
+
+[1] | Max_err_e: 0.592308 - Max_err_o: 1.000000 - Max_err_tot: 0.933581 | beta: 0.478301
+       Estimated rank | Uc: 13 - Ur: 17
+       Sparsity | Max alpha: 1.914114 - Max gamma: 3.781280 | Time: 72.915259
+[2] | Max_err_e: 0.868890 - Max_err_o: 1.000000 - Max_err_tot: 0.779381 | beta: 0.425772
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 2.392415 - Max gamma: 19.411927 | Time: 63.297044
+[3] | Max_err_e: 0.893698 - Max_err_o: 1.000000 - Max_err_tot: 0.785882 | beta: 0.429635
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 2.818187 - Max gamma: 110.214696 | Time: 62.833000
+[4] | Max_err_e: 0.953454 - Max_err_o: 1.000000 - Max_err_tot: 0.774683 | beta: 0.417135
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 3.247822 - Max gamma: 621.496781 | Time: 71.274287
+[5] | Max_err_e: 1.024286 - Max_err_o: 1.000000 - Max_err_tot: 0.769967 | beta: 0.405294
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 3.664957 - Max gamma: 3391.782543 | Time: 60.855727
+
+FIRST FIVE ITERATIONS WITH MMX
+
+[1] | Max_err_e: 0.592308 - Max_err_o: 1.000000 - Max_err_tot: 0.933581 | beta: 0.478301
+       Estimated rank | Uc: 13 - Ur: 17
+       Sparsity | Max alpha: 1.914114 - Max gamma: 3.781800 | Time: 113.235802
+[2] | Max_err_e: 0.868890 - Max_err_o: 1.000000 - Max_err_tot: 0.779381 | beta: 0.425772
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 2.392415 - Max gamma: 19.413811 | Time: 111.774280
+[3] | Max_err_e: 0.893698 - Max_err_o: 1.000000 - Max_err_tot: 0.785882 | beta: 0.429635
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 2.818187 - Max gamma: 110.225419 | Time: 112.537691
+[4] | Max_err_e: 0.953454 - Max_err_o: 1.000000 - Max_err_tot: 0.774683 | beta: 0.417135
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 3.247822 - Max gamma: 621.552145 | Time: 113.496449
+[5] | Max_err_e: 1.024286 - Max_err_o: 1.000000 - Max_err_tot: 0.769967 | beta: 0.405294
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 3.664957 - Max gamma: 3392.022533 | Time: 114.802040
+
+FIRST TWENTY ITERATIONS WITHOUT MMX OR KRONFACT
+
+[1] | Max_err_e: 0.592308 - Max_err_o: 1.000000 - Max_err_tot: 0.933580 | beta: 0.478301
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 1.914114 - Max gamma: 3.779920 | Time: 104.925727
+[2] | Max_err_e: 0.868890 - Max_err_o: 0.999942 - Max_err_tot: 0.779149 | beta: 0.425866
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 2.392415 - Max gamma: 19.183883 | Time: 104.530514
+[3] | Max_err_e: 0.893644 - Max_err_o: 0.677740 - Max_err_tot: 0.582771 | beta: 0.630861
+       Estimated rank | Uc: 13 - Ur: 13
+       Sparsity | Max alpha: 2.818281 - Max gamma: 47.336784 | Time: 115.164089
+[4] | Max_err_e: 0.834503 - Max_err_o: 0.228017 - Max_err_tot: 0.390398 | beta: 0.959980
+       Estimated rank | Uc: 13 - Ur: 14
+       Sparsity | Max alpha: 3.449141 - Max gamma: 58.512296 | Time: 114.016239
+[5] | Max_err_e: 0.690265 - Max_err_o: 0.124388 - Max_err_tot: 0.361260 | beta: 1.121100
+       Estimated rank | Uc: 13 - Ur: 17
+       Sparsity | Max alpha: 4.409120 - Max gamma: 64.276954 | Time: 106.101850
+[6] | Max_err_e: 0.670669 - Max_err_o: 0.077239 - Max_err_tot: 0.359273 | beta: 1.240606
+       Estimated rank | Uc: 13 - Ur: 19
+       Sparsity | Max alpha: 5.530220 - Max gamma: 68.732580 | Time: 116.819145
+[7] | Max_err_e: 0.667822 - Max_err_o: 0.054221 - Max_err_tot: 0.359178 | beta: 1.324304
+       Estimated rank | Uc: 13 - Ur: 20
+       Sparsity | Max alpha: 6.770824 - Max gamma: 72.765572 | Time: 116.164397
+[8] | Max_err_e: 0.667688 - Max_err_o: 0.042877 - Max_err_tot: 0.359690 | beta: 1.385211
+       Estimated rank | Uc: 13 - Ur: 21
+       Sparsity | Max alpha: 8.095126 - Max gamma: 76.809205 | Time: 116.288922
+[9] | Max_err_e: 0.667738 - Max_err_o: 0.037016 - Max_err_tot: 0.360010 | beta: 1.430021
+       Estimated rank | Uc: 13 - Ur: 22
+       Sparsity | Max alpha: 9.480337 - Max gamma: 81.127510 | Time: 115.509576
+[10] | Max_err_e: 0.667468 - Max_err_o: 0.033329 - Max_err_tot: 0.360036 | beta: 1.463343
+       Estimated rank | Uc: 13 - Ur: 22
+       Sparsity | Max alpha: 10.910357 - Max gamma: 85.933017 | Time: 106.533223
+[11] | Max_err_e: 0.666802 - Max_err_o: 0.030971 - Max_err_tot: 0.359788 | beta: 1.488277
+       Estimated rank | Uc: 13 - Ur: 23
+       Sparsity | Max alpha: 12.373700 - Max gamma: 91.428670 | Time: 114.258046
+[12] | Max_err_e: 0.665801 - Max_err_o: 0.029204 - Max_err_tot: 0.359326 | beta: 1.507014
+       Estimated rank | Uc: 13 - Ur: 24
+       Sparsity | Max alpha: 13.861977 - Max gamma: 97.831525 | Time: 116.677230
+[13] | Max_err_e: 0.664554 - Max_err_o: 0.027820 - Max_err_tot: 0.358711 | beta: 1.521134
+       Estimated rank | Uc: 13 - Ur: 24
+       Sparsity | Max alpha: 15.368991 - Max gamma: 105.391771 | Time: 104.747823
+[14] | Max_err_e: 0.663147 - Max_err_o: 0.026699 - Max_err_tot: 0.357995 | beta: 1.531793
+       Estimated rank | Uc: 13 - Ur: 25
+       Sparsity | Max alpha: 16.890125 - Max gamma: 114.414649 | Time: 112.274335
+[15] | Max_err_e: 0.661682 - Max_err_o: 0.025767 - Max_err_tot: 0.357221 | beta: 1.539852
+       Estimated rank | Uc: 13 - Ur: 25
+       Sparsity | Max alpha: 18.421918 - Max gamma: 125.290543 | Time: 117.687010
+[16] | Max_err_e: 0.660365 - Max_err_o: 0.024975 - Max_err_tot: 0.356422 | beta: 1.545951
+       Estimated rank | Uc: 13 - Ur: 25
+       Sparsity | Max alpha: 19.961770 - Max gamma: 138.539151 | Time: 106.136931
+[17] | Max_err_e: 0.659092 - Max_err_o: 0.024291 - Max_err_tot: 0.355622 | beta: 1.550572
+       Estimated rank | Uc: 13 - Ur: 25
+       Sparsity | Max alpha: 21.507721 - Max gamma: 154.876426 | Time: 105.619998
+[18] | Max_err_e: 0.657812 - Max_err_o: 0.023692 - Max_err_tot: 0.354838 | beta: 1.554081
+       Estimated rank | Uc: 13 - Ur: 25
+       Sparsity | Max alpha: 23.058293 - Max gamma: 175.319212 | Time: 108.607217
+[19] | Max_err_e: 0.656582 - Max_err_o: 0.023160 - Max_err_tot: 0.354084 | beta: 1.556752
+       Estimated rank | Uc: 13 - Ur: 25
+       Sparsity | Max alpha: 24.612373 - Max gamma: 201.354410 | Time: 107.612912
+[20] | Max_err_e: 0.655378 - Max_err_o: 0.022685 - Max_err_tot: 0.353366 | beta: 1.558794
+       Estimated rank | Uc: 13 - Ur: 26
+       Sparsity | Max alpha: 26.169125 - Max gamma: 235.222437 | Time: 116.674158
